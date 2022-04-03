@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e470c6fb.css",
+    "main.js": "/static/js/main.9cb7b90b.js",
+    "static/media/image-intro-desktop.jpg": "/static/media/image-intro-desktop.2f3429f63753a67e322b.jpg",
+    "static/media/image-intro-mobile.jpg": "/static/media/image-intro-mobile.8b8c3185ce1388b2bb9e.jpg",
+    "static/media/logo.svg": "/static/media/logo.de307375d4a017d31055b87669491531.svg",
+    "static/media/bg-pattern-mobile-nav.svg": "/static/media/bg-pattern-mobile-nav.ba7e4779840d35ea56a9.svg",
+    "static/media/bg-pattern-how-we-work-desktop.svg": "/static/media/bg-pattern-how-we-work-desktop.e4a9acf95eb3a272f71a.svg",
+    "static/media/bg-pattern-intro-left-desktop.svg": "/static/media/bg-pattern-intro-left-desktop.458eb8888fba0c7cdc3e.svg",
+    "static/media/bg-pattern-intro-right-desktop.svg": "/static/media/bg-pattern-intro-right-desktop.08244948f80bb7acb6aa.svg",
+    "static/media/bg-pattern-footer-mobile.svg": "/static/media/bg-pattern-footer-mobile.ad8f095d5bd03a27d6b4.svg",
+    "static/media/bg-pattern-how-we-work-mobile.svg": "/static/media/bg-pattern-how-we-work-mobile.f8e9d555e5b5fd75460b.svg",
+    "static/media/bg-pattern-intro-left-mobile.svg": "/static/media/bg-pattern-intro-left-mobile.69716946b37a939a16ce.svg",
+    "static/media/bg-pattern-intro-right-mobile.svg": "/static/media/bg-pattern-intro-right-mobile.5066b9e6038f28de7011.svg",
+    "static/media/icon-affordable-prices.svg": "/static/media/icon-affordable-prices.91b2f0af4224af515171.svg",
+    "static/media/icon-instagram.svg": "/static/media/icon-instagram.71487c9e4f397fd8d201.svg",
+    "index.html": "/index.html",
+    "static/media/icon-pinterest.svg": "/static/media/icon-pinterest.b794e5be6e9a71bf000f.svg",
+    "static/media/icon-people-first.svg": "/static/media/icon-people-first.dd952a4bb553782f7d3c.svg",
+    "static/media/icon-twitter.svg": "/static/media/icon-twitter.2a10f5cb1b96258db309.svg",
+    "static/media/icon-facebook.svg": "/static/media/icon-facebook.82738d1ed006169334c2.svg",
+    "static/media/icon-snappy-process.svg": "/static/media/icon-snappy-process.c6f88dd7d03b6ce8f9a7.svg",
+    "static/media/icon-close.svg": "/static/media/icon-close.132878c47b1de3b4ca3f.svg",
+    "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.735e205a3b25c811002b.svg",
+    "main.e470c6fb.css.map": "/static/css/main.e470c6fb.css.map",
+    "main.9cb7b90b.js.map": "/static/js/main.9cb7b90b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e470c6fb.css",
+    "static/js/main.9cb7b90b.js"
+  ]
+}
